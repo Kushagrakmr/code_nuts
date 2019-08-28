@@ -2,7 +2,6 @@
 #include<string>
 #include<stack>
 #include<algorithm>
-#include<cstring>
 
 using namespace std;
 
