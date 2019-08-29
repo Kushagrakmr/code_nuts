@@ -5,7 +5,7 @@ using namespace std;
 
 int* create_lps(string ss) {
     //ss = "abcdabeabf"
-    //      000012012f
+    //      0000120120
     int n = ss.length();
     int *lps;
     lps = new int[n];
